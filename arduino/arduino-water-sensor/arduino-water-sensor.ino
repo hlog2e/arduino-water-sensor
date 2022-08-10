@@ -2,9 +2,9 @@
 #include <ESP8266HTTPClient.h> // HTTP 클라이언트
 
 
-String url = "http://10.0.74.11:3221/api/v1/water";
-String wifiSSID = "hserver";
-String wifiPW = "wifi@72115490";
+String url = "http://10.136.226.174:3221/api/v1/water";
+String wifiSSID = "CBE_S";
+String wifiPW = "kch_h@1234";
 
 
 
